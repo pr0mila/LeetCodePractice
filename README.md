@@ -8,3 +8,5 @@
 | ------------- |:----------------:| -----------:|------:| -------: |
 | 169           | Majority Element | Easy        | Array | <a href="https://github.com/pr0mila/LeetCodePractice/blob/master/169.%20Majority%20Element.py">Solution</a>|
 | 169           | Majority Element | Easy        | Array | <a href="https://github.com/pr0mila/LeetCodePractice/blob/master/169.%20Majority%20Element_2.py">Solution</a>|
+| 283           |    Move Zeroes   | Easy        | Array | <a href="https://github.com/pr0mila/LeetCodePractice/blob/master/169.%20Majority%20Element_2.py">Solution</a>|
+| 283           |    Move Zeroes   | Easy        | Array | <a href="https://github.com/pr0mila/LeetCodePractice/blob/master/169.%20Majority%20Element_2.py">Solution</a>|
