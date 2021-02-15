@@ -1,5 +1,5 @@
 # LeetCodePractice
-:octocat: Solutions to <a href="https://leetcode.com/">LeetCode</a> problems those I've solved recently using Python3 and also tried code optimization for coding interviews. 
+:octocat: Solutions to <a href="https://leetcode.com/">LeetCode</a> problems those I've solved recently using Python3 as well as then tried code optimization for coding interviews. 
 :rocket: :computer:
 
 
