@@ -6,7 +6,8 @@ class Solution:
             row.append(row[x-1] * (rowIndex - x + 1) // x)
         return row
 
-
+"""
 row =5
 obj = Solution()
 print(obj.generate(row))
+"""
