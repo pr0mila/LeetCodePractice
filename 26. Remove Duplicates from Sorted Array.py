@@ -1,5 +1,5 @@
 class Solution(object):
-    def remove_duplicates(nums):
+    def remove_duplicates(self,nums):
         n = len(nums)
 
         if n == 0:
@@ -13,5 +13,11 @@ class Solution(object):
 
         return current_index
 
+"""
+nums = [1,1,2,3]
+obj=Solution()
+l = obj.remove_duplicates(nums)
+print(nums[:l])
+"""
 
 

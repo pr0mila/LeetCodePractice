@@ -12,3 +12,5 @@ class Solution(object):
 nums = [1,1,2,3,1]
 obj=Solution()
 print(obj.majorityElement(nums))
+
+
