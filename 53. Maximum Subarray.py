@@ -1,6 +1,5 @@
-class Solution:
-    def maxSubArray(self, nums):
-        
+
+
 """"
     def bruteforcemaxSubArray(self, nums):
 
@@ -17,3 +16,16 @@ class Solution:
                     max_sum=current_sum
         return max_sum
 """
+
+
+class Solution:
+    def maxSubArray(self, nums):
+        best_sum = float('-Inf')
+        current_sum = float('-Inf')
+        for i in range(len(nums)):
+            current_sum += nums[i]
+            if current_sum > best_sum :
+                best_sum = current_sum
+            if current_sum < 0:
+                current_sum = 0
+        return  best_sum
