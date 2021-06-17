@@ -22,12 +22,8 @@ class Solution:
                 sum = nums[i]+nums[j]
                 if(sum == target):
                     return i,j
-
-
 nums = [3,2,4]
 target = 6
 obj=Solution()
 obj.twoSum(nums,target)
-
 """
-
